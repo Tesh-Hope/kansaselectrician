@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+	color: #2699fb;
+}
+
+nav {
+	height: 10vh
+}
+
+.width-98{
+	width: 98vw;
+	margin: auto;
+}
+
+.width-96{
+	width: 96%;
+	margin: auto;
+}
+
+.nav-item {
+   margin-left: 20px;
+
+} 
+
+button{
+	background-color: #2699FB;
+	color: white;
+	Border: none;
+	padding: 3px;
+	margin: 3px;
+}
+
+
+
+/*----------header----------*/
+
+#header{
+	background-image: url("https://via.placeholder.com/150");
+padding: 1rem 0px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+
+
+/*----------commercial------------*/
+
+.commercial-image{
+	float: left;
+	width: 30%;
+}
+
+.commercial-text{
+	float: right;
+	width: 70%;
+}
+
+007FEB
+
